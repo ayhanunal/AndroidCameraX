@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.annotation:annotation-experimental:1.1.0-rc01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RouteAppAndroid/gradle/caches/transforms-2/files-2.1/44e5170816545c3c75cf843c3bc0ee75/annotation-experimental-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../RouteAppAndroid/gradle/caches/transforms-2/files-2.1/44e5170816545c3c75cf843c3bc0ee75/annotation-experimental-1.1.0-rc01/res" />
+      <root url="file://$PROJECT_DIR$/../RouteAppAndroid/gradle/caches/transforms-2/files-2.1/44e5170816545c3c75cf843c3bc0ee75/annotation-experimental-1.1.0-rc01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../RouteAppAndroid/gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.1.0-rc01/238eb640abf1ca6c952c7cd2e9423fe7f715713f/annotation-experimental-1.1.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

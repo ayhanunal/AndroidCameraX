@@ -1,0 +1,2 @@
+com/ayhanunal/androidcamerax/BuildConfig.java
+ com.ayhanunal.androidcamerax.BuildConfig
