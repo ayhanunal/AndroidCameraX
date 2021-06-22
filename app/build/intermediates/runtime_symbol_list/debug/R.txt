@@ -1784,6 +1784,7 @@ int id bottom 0x7f080056
 int id bounce 0x7f080057
 int id buttonPanel 0x7f080058
 int id cache_measures 0x7f080059
+int id camera_capture_button 0x7f0801b1
 int id cancel_button 0x7f08005a
 int id center 0x7f08005b
 int id center_horizontal 0x7f08005c
@@ -2116,6 +2117,7 @@ int id unlabeled 0x7f0801a2
 int id up 0x7f0801a3
 int id useLogo 0x7f0801a4
 int id video 0x7f0801a5
+int id viewFinder 0x7f0801b2
 int id view_offset_helper 0x7f0801a6
 int id view_tree_lifecycle_owner 0x7f0801a7
 int id view_tree_saved_state_registry_owner 0x7f0801a8

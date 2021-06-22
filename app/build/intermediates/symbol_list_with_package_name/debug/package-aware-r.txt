@@ -1785,6 +1785,7 @@ id bottom
 id bounce
 id buttonPanel
 id cache_measures
+id camera_capture_button
 id cancel_button
 id center
 id center_horizontal
@@ -2117,6 +2118,7 @@ id unlabeled
 id up
 id useLogo
 id video
+id viewFinder
 id view_offset_helper
 id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
